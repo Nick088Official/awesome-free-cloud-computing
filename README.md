@@ -1,4 +1,6 @@
-# awesome-free-cloud-computing
+![Awesome Cloud Computing Square](assets/images/awesome_list_free_file_hosting_square.jpg)
+
+# Awesome Free Cloud Computing
 Awesome list of FREE Cloud Computing Services
 
 
